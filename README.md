@@ -22,7 +22,6 @@ Climate change and global warming have become critical issues impacting our worl
 - **Data Preprocessing:** Cleans and transforms global temperature datasets.
 - **Exploratory Data Analysis:** Visualizes temporal and spatial temperature trends.
 - **Machine Learning Models:** Implements regression models to predict future temperatures.
-- **Interactive Visualizations:** Offers plots and maps to explore temperature changes over time and geography.
 - **Reproducible Workflows:** Provides scripts and notebooks for easy experimentation.
 
 ## Technologies Used
