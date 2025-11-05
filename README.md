@@ -52,9 +52,6 @@ Climate change and global warming have become critical issues impacting our worl
     pip install -r requirements.txt
     ```
 
-3. **Download dataset:**  
-   Place the required temperature datasets in the `data/` directory.
-
 ## Usage
 
 1. **Run Jupyter Notebook:**
